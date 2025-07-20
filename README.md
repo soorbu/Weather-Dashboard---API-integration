@@ -1,16 +1,4 @@
-# Task 1: API INTEGRATION AND DATA VISUALIZATION 
-
-*COMPANY*:  COTECH IT SOLUTIONS
-
-*NAME*:  SURABHI SANJAY KHATALE
-
-*INTERN ID*:  CT04DG167
-
-*DOMAIN*:  PYTHON PROGRAMMING 
-
-*MENTOR*:  VAISHALI SHRIVASTAVA
-
-*DESCRIPTION*--
+# API INTEGRATION AND DATA VISUALIZATION 
 
 This is a Django-based Weather Dashboard that fetches and visualizes current weather, air quality data, and 5-day forecasts for any global location using the [WeatherAPI](https://www.weatherapi.com/). The dashboard includes interactive plots, real-time statistics, and intuitive charts rendered using Matplotlib and Seaborn.
 
