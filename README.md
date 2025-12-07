@@ -1,4 +1,4 @@
-# API INTEGRATION AND DATA VISUALIZATION 
+# WEATHER DASHBOARD - API integration and Data Visualisation
 
 This is a Django-based Weather Dashboard that fetches and visualizes current weather, air quality data, and 5-day forecasts for any global location using the [WeatherAPI](https://www.weatherapi.com/). The dashboard includes interactive plots, real-time statistics, and intuitive charts rendered using Matplotlib and Seaborn.
 
